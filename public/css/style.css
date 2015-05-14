@@ -1,0 +1,72 @@
+.gray{
+
+	color: #D8D8D8;
+}
+
+p{
+
+	font-family: 'Lato';
+}
+
+.success{
+
+	text-align: center;
+	padding: 10px;
+	font-size: 20px;
+}
+
+h2{
+
+	font-family: 'Lato';
+	margin: 0 auto;
+	text-align: center;
+}
+
+body{
+
+	background-color: #CC6600;
+}
+
+.header{
+
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 50px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	font-size: 100px;
+}
+
+.header-text{
+
+	font-size: 30px;
+	font-family: 'Lato', sans-serif;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+.container-fluid{
+
+	background: white;
+	padding: 20px;
+}
+
+.white{
+
+	color: white;
+}
+
+.bigger-text{
+
+	font-size: 20px;
+	font-family: 'Lato';
+}
+
+.btn-warning{
+
+	width: 100%;
+	color: white;
+	height: 50px;
+	background-color: #CC6633;
+}
